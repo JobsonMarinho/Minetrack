@@ -1,12 +1,22 @@
 [
-	{
-		"name": "Hypixel",
-		"ip": "mc.hypixel.net",
-		"type": "PC"
-	},
-	{
-		"name": "CubeCraft",
-		"ip": "play.cubecraft.net",
-		"type": "PC"
-	}
+  {
+    "name": "StarDix",
+    "ip": "stardix.com",
+    "type": "PC"
+  },
+  {
+    "name": "GladMC",
+    "ip": "gladmc.com",
+    "type": "PC"
+  },
+  {
+    "name": "VulpyMC",
+    "ip": "jogar.vulpymc.com",
+    "type": "PC"
+  },
+  {
+    "name": "MineTools",
+    "ip": "jogar.minetools.dev",
+    "type": "PC"
+  }
 ]
